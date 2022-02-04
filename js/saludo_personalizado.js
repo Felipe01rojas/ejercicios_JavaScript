@@ -1,6 +1,6 @@
 'use strict';
 
 
-var saludo="Bienbenido sr David";
+var usuario="David";
 
-console.log(saludo);
+console.log("Bienvenido sr",usuario);
